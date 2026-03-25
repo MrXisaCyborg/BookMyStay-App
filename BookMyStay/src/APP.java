@@ -31,7 +31,7 @@ class BookingRequestQueue {
     public boolean isEmpty() { return queue.isEmpty(); }
 }
 
-public class BookMyStayApp {
+public class APP {
     public static void main(String[] args) {
 
         BookingRequestQueue requestQueue = new BookingRequestQueue();
